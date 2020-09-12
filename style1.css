@@ -1,0 +1,25 @@
+*{
+    font-family: 'Inconsolata', monospace;
+ }
+ h1{
+text-align: center;
+}
+p{
+text-align: center;
+}
+h1{
+text-decoration: underline;
+}
+h3{
+text-align: center;
+}
+.special{
+margin-right: 60px;
+margin-left: 60px;
+}
+footer{
+	background-color: black;
+	padding: 1px;
+	text-align: center;
+	color: white;
+}
